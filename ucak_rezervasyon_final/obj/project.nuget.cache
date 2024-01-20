@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TJVVMCs1pY//SmJFIqAvQmP9OkaeFdrTzuKoew4I6yFA4/CddFFo7Rhs3sNTonTZiQIZgUtYKp55vHYO6+Ow6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yigit\\source\\repos\\ucak_rezervasyon_final\\ucak_rezervasyon_final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yigit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

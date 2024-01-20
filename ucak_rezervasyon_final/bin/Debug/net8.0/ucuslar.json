@@ -1,0 +1,24 @@
+[
+  {
+    "KalkisYeri": {
+      "Ulke": null,
+      "Sehir": null,
+      "Havaalani": "paris",
+      "AktifPasif": true
+    },
+    "VarisYeri": {
+      "Ulke": null,
+      "Sehir": null,
+      "Havaalani": "istanbul",
+      "AktifPasif": true
+    },
+    "Saat": "2024-01-13T15:30:00",
+    "UcakBilgisi": {
+      "Model": "klm",
+      "Marka": "boeing",
+      "SeriNo": "520",
+      "KoltukKapasitesi": 100
+    },
+    "RezervasyonSayisi": 1
+  }
+]

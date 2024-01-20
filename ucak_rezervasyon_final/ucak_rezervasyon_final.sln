@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ucak_rezervasyon_final", "ucak_rezervasyon_final.csproj", "{98C24F73-327F-4C15-B274-183438A25FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C24F73-327F-4C15-B274-183438A25FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C24F73-327F-4C15-B274-183438A25FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C24F73-327F-4C15-B274-183438A25FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C24F73-327F-4C15-B274-183438A25FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2D24A9-2E60-45BD-957B-10E30C1D5B39}
+	EndGlobalSection
+EndGlobal

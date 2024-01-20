@@ -1,0 +1,17 @@
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\ucak_rezervasyon_final.exe
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\ucak_rezervasyon_final.deps.json
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\ucak_rezervasyon_final.runtimeconfig.json
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\ucak_rezervasyon_final.dll
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\ucak_rezervasyon_final.pdb
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.AssemblyInfoInputs.cache
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.AssemblyInfo.cs
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.dll
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\refint\ucak_rezervasyon_final.dll
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.pdb
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.genruntimeconfig.cache
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ref\ucak_rezervasyon_final.dll
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\ucak_rezervasyon_final\obj\Debug\net8.0\ucak_rezervasyon_final.csproj.CopyComplete
